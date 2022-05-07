@@ -1,4 +1,4 @@
-<h1> Hello, naveena </h1>
-<h2> hello deepu </h2>
-<h1> doing project with you </h1>
+<h1> JOJO LAPPA </h1>
+<h2> This is sample test </h2>
+<h1> ci/cd is cool! </h1>
 <h2> practising devops </h2>
